@@ -1,0 +1,22 @@
+body{
+background:linear-gradient(135deg,#6dd5fa,#2980b9);
+height:100vh;
+font-family:Arial;
+}
+
+.weather-box{
+background:white;
+width:350px;
+margin:auto;
+padding:20px;
+border-radius:10px;
+box-shadow:0px 5px 15px rgba(0,0,0,0.2);
+}
+
+.weather-icon{
+font-size:50px;
+}
+
+h2{
+margin-bottom:10px;
+}
